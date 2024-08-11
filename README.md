@@ -2,6 +2,7 @@
 # ◼️ I am skilled in full stack development and data science field.
 # ◼️ Below are my tech stack for more detailed view.
 * <code style="color : Grey" >Python</code>
+* <code style="color : Grey" >Rest API</code>
 * <code style="color : Aqua" >Django</code>
 * <code style="color : Blue" >Data Science</code>
 * <code style="color : Red" >Machince learning</code>
