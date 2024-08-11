@@ -8,7 +8,7 @@
 * <code style="color : white" >SQL</code>
 * <code style="color : Green" >ETL</code>
 * <code style="color : Red" >AWS</code>
-* Frontend - HTML,CSS, Basic Javascript
+* Frontend - Next.Js , HTML,CSS, Basic Javascript
 * <code style="color :Yellogreen" >Unix</code>
 
 * ◾ ◾  ◾  ◾  ◾  ◾  ◾  ◾  ◾  ◾  ◾  ◾  ◾  ◾  ◾  ◾  ◾  ◾  ◾  ◾  ◾  ◾ 
